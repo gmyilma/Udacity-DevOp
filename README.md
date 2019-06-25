@@ -4,7 +4,7 @@ Screenshots showing steps for Deploying Static Website on AWS.
 
 The following activities has been performed:
 
-All website files should be added to the S3 bucket.
+All website files are added to the S3 bucket.
 
 The bucket configuration is set up to support static website hosting.
 
