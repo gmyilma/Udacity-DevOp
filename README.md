@@ -19,6 +19,4 @@ Website Distribution:
 The website is distributed via Cloudfront.
 CloudFront has been configured to retrieve and distribute website files.
 
-Web Browser Access through the following url
 
-http://udacity-website-girma.s3.us-east-2.amazonaws.com/index.html
